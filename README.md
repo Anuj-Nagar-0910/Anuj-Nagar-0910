@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Anuj Nagar
 
 🚀 Transitioning from Software Architecture & Automotive System Testing  
 🧠 Into the world of **AI Prompt Engineering**
@@ -42,7 +42,7 @@ Feel free to reach out or collaborate on projects that involve:
 - Automation & AI workflows  
 - AI agents & task orchestration  
 
-> 🔗 [LinkedIn] • 💼 [Portfolio/Blog] • 🧠 [Open to collaboration!]
+> 🔗 [https://www.linkedin.com/in/anuj-n-478690143/] • 💼 [Portfolio/Blog] • 🧠 [Open to collaboration!]
 
 ---
 
