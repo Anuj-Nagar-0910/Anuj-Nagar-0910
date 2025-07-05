@@ -42,7 +42,7 @@ Feel free to reach out or collaborate on projects that involve:
 - Automation & AI workflows  
 - AI agents & task orchestration  
 
-> 🔗 [https://www.linkedin.com/in/anuj-n-478690143/] • 💼 [Portfolio/Blog] • 🧠 [Open to collaboration!]
+> 🔗 [LinkedIn](https://www.linkedin.com/in/anuj-n-478690143/) • 💼 [Portfolio](https://anuj-nagar-0910.github.io/) • 🧠 [Blog](https://medium.com/@abstractanuj)
 
 ---
 
